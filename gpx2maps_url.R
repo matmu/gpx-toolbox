@@ -26,8 +26,9 @@ df.output = data.frame(
     lon = as.numeric(xml_attr(waypoints, "lon")),
     stringsAsFactors = FALSE
     ) %>%
-    mutate(URL = paste0("https://maps.google.com/?q=", lat, ",", lon, "&ll=", lat, ",", lon, "&z=12")) %>%
-    select(Waypoint, URL)
+    mutate(GoogleMaps = paste0("https://maps.google.com/?q=", lat, ",", lon, "&ll=", lat, ",", lon, "&z=12"),
+           AppleMaps = paste0("https://maps.apple.com/?q=", lat, ",", lon)) %>%
+    select(Waypoint, GoogleMaps, AppleMaps)
 
 
 # Create a new workbook
@@ -47,21 +48,33 @@ lapply(1:nrow(df.output), function(i) {
     writeFormula(
         wb,
         sheet = "Waypoints",
-        x = paste0('HYPERLINK("', df.output$URL[i], '")'),
+        x = paste0('HYPERLINK("', df.output$GoogleMaps[i], '")'),
         startCol = 2,
         startRow = i + 1
         )
     }) %>% invisible()
 
 
+# Add hyperlinks to the third column
+lapply(1:nrow(df.output), function(i) {
+    writeFormula(
+        wb,
+        sheet = "Waypoints",
+        x = paste0('HYPERLINK("', df.output$AppleMaps[i], '")'),
+        startCol = 3,
+        startRow = i + 1
+    )
+}) %>% invisible()
+
+
 # Style the header row to be bold
-addStyle(wb, sheet = "Waypoints", style = createStyle(textDecoration = "bold"), rows = 1, cols = 1:2, gridExpand = TRUE)
+addStyle(wb, sheet = "Waypoints", style = createStyle(textDecoration = "bold"), rows = 1, cols = 1:3, gridExpand = TRUE)
 
 
 # Adjust column widths for better readability
 col_widths = sapply(df.output, function(col) max(nchar(as.character(col)), na.rm = TRUE))
-setColWidths(wb, "Waypoints", cols = 1:2, widths = col_widths)
-# setColWidths(wb, "Waypoints", cols = 1:2, widths = "auto")
+setColWidths(wb, "Waypoints", cols = 1:3, widths = col_widths)
+# setColWidths(wb, "Waypoints", cols = 1:3, widths = "auto")
 
 
 # Save the workbook
