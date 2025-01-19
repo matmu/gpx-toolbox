@@ -1,0 +1,1365 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="38.124444444" lon="13.368055556">
+  <name>S001</name>
+</wpt>
+<wpt lat="38.109722222" lon="13.3425">
+  <name>S002</name>
+</wpt>
+<wpt lat="38.147222222" lon="13.353055556">
+  <name>S003</name>
+</wpt>
+<wpt lat="38.1325" lon="13.331388889">
+  <name>S004</name>
+</wpt>
+<wpt lat="38.091111111" lon="13.344166667">
+  <name>S005</name>
+</wpt>
+<wpt lat="38.079166667" lon="13.291666667">
+  <name>S006</name>
+</wpt>
+<wpt lat="37.994166667" lon="13.282777778">
+  <name>Tour 01 Piana degli Albanesi Parken</name>
+</wpt>
+<wpt lat="37.881111111" lon="13.380277778">
+  <name>S007</name>
+</wpt>
+<wpt lat="37.816666667" lon="13.294166667">
+  <name>Tour01 Corleone Parken</name>
+</wpt>
+<wpt lat="37.9675" lon="13.2125">
+  <name>Tour 01 Mone Iato</name>
+</wpt>
+<wpt lat="38.078888889" lon="13.5125">
+  <name>Tour 01 Villa Pallagonia</name>
+</wpt>
+<wpt lat="38.089444444" lon="13.501944444">
+  <name>Tour 01 Villa Cattolica</name>
+</wpt>
+<wpt lat="38.101944444" lon="13.499166667">
+  <name>Tour 01 Sardellenmuseum</name>
+</wpt>
+<wpt lat="38.091388889" lon="13.532222222">
+  <name>Tour 01 Solunto</name>
+</wpt>
+<wpt lat="38.091944444" lon="13.54">
+  <name>S008</name>
+</wpt>
+<wpt lat="38.097222222" lon="13.533055556">
+  <name>S009</name>
+</wpt>
+<wpt lat="38.017222222" lon="13.613888889">
+  <name>S010</name>
+</wpt>
+<wpt lat="38.0" lon="13.648611111">
+  <name>S010a</name>
+</wpt>
+<wpt lat="37.933888889" lon="13.661111111">
+  <name>S011</name>
+</wpt>
+<wpt lat="37.9875" lon="13.701666667">
+  <name>S012</name>
+</wpt>
+<wpt lat="37.990277778" lon="13.701666667">
+  <name>S012a</name>
+</wpt>
+<wpt lat="37.973055556" lon="13.823333333">
+  <name>Tour 01 Himera</name>
+</wpt>
+<wpt lat="37.9925" lon="13.866666667">
+  <name>Tour 01 Solfarelli</name>
+</wpt>
+<wpt lat="37.993888889" lon="13.870833333">
+  <name>S013</name>
+</wpt>
+<wpt lat="37.9975" lon="13.879722222">
+  <name>S014</name>
+</wpt>
+<wpt lat="38.005" lon="13.904166667">
+  <name>S015</name>
+</wpt>
+<wpt lat="38.008888889" lon="13.912777778">
+  <name>S016</name>
+</wpt>
+<wpt lat="38.012222222" lon="13.916388889">
+  <name>Tour 01 Gorgo Lungo</name>
+</wpt>
+<wpt lat="38.02" lon="13.933611111">
+  <name>S017</name>
+</wpt>
+<wpt lat="38.026944444" lon="13.9825">
+  <name>S018</name>
+</wpt>
+<wpt lat="38.032777778" lon="14.009166667">
+  <name>S019</name>
+</wpt>
+<wpt lat="38.032777778" lon="14.008333333">
+  <name>S019a</name>
+</wpt>
+<wpt lat="38.021944444" lon="14.140277778">
+  <name>S020</name>
+</wpt>
+<wpt lat="38.022777778" lon="14.153888889">
+  <name>S021</name>
+</wpt>
+<wpt lat="38.02" lon="14.178611111">
+  <name>S022</name>
+</wpt>
+<wpt lat="38.01" lon="14.233055556">
+  <name>S023</name>
+</wpt>
+<wpt lat="37.956666667" lon="14.160277778">
+  <name>Tour 02 Gole Tiberio</name>
+</wpt>
+<wpt lat="37.986388889" lon="14.018055556">
+  <name>S024</name>
+</wpt>
+<wpt lat="37.977222222" lon="14.016666667">
+  <name>S025</name>
+</wpt>
+<wpt lat="37.969166667" lon="13.979722222">
+  <name>S026</name>
+</wpt>
+<wpt lat="37.936944444" lon="14.092777778">
+  <name>S027</name>
+</wpt>
+<wpt lat="37.9375" lon="14.094166667">
+  <name>Tour 02 Castelbuono V/E</name>
+</wpt>
+<wpt lat="37.875277778" lon="14.008055556">
+  <name>Tour 02 Wasserstelle</name>
+</wpt>
+<wpt lat="37.915555556" lon="13.968333333">
+  <name>S028</name>
+</wpt>
+<wpt lat="37.909166667" lon="13.976666667">
+  <name>S028a</name>
+</wpt>
+<wpt lat="37.91" lon="13.990277778">
+  <name>S029</name>
+</wpt>
+<wpt lat="37.878611111" lon="14.018055556">
+  <name>S30</name>
+</wpt>
+<wpt lat="37.876944444" lon="14.017777778">
+  <name>S30a</name>
+</wpt>
+<wpt lat="37.878611111" lon="14.018055556">
+  <name>Tour 02 Pizzo Carbonara Parken</name>
+</wpt>
+<wpt lat="37.812777778" lon="14.003611111">
+  <name>S031</name>
+</wpt>
+<wpt lat="37.809444444" lon="14.011388889">
+  <name>S031a</name>
+</wpt>
+<wpt lat="37.783888889" lon="14.040833333">
+  <name>S032</name>
+</wpt>
+<wpt lat="37.8125" lon="14.091944444">
+  <name>Tour 02 Petralia Sottana</name>
+</wpt>
+<wpt lat="37.800277778" lon="14.108333333">
+  <name>Tour 02 Petralia Soprana</name>
+</wpt>
+<wpt lat="37.791944444" lon="14.210277778">
+  <name>S033</name>
+</wpt>
+<wpt lat="37.763611111" lon="14.238611111">
+  <name>S034</name>
+</wpt>
+<wpt lat="37.744722222" lon="14.066111111">
+  <name>S035</name>
+</wpt>
+<wpt lat="37.604166667" lon="14.263888889">
+  <name>Tour 02 Necropoli Realmese</name>
+</wpt>
+<wpt lat="37.587777778" lon="14.273611111">
+  <name>Tour 02 Calascibetta Parken</name>
+</wpt>
+<wpt lat="37.593055556" lon="14.270833333">
+  <name>S036</name>
+</wpt>
+<wpt lat="37.562222222" lon="14.279722222">
+  <name>Tour 02 Enna V/E</name>
+</wpt>
+<wpt lat="37.569166667" lon="14.267777778">
+  <name>S037</name>
+</wpt>
+<wpt lat="37.566666667" lon="14.2875">
+  <name>S037a</name>
+</wpt>
+<wpt lat="37.559722222" lon="14.274166667">
+  <name>S037b</name>
+</wpt>
+<wpt lat="37.511111111" lon="14.319444444">
+  <name>S038</name>
+</wpt>
+<wpt lat="37.485555556" lon="14.356111111">
+  <name>S039</name>
+</wpt>
+<wpt lat="37.512777778" lon="14.389722222">
+  <name>S040</name>
+</wpt>
+<wpt lat="37.571388889" lon="14.483055556">
+  <name>S041</name>
+</wpt>
+<wpt lat="37.766666667" lon="14.351388889">
+  <name>Tour 02 Sperlinga Parken</name>
+</wpt>
+<wpt lat="37.749722222" lon="14.393888889">
+  <name>Tour 02 Nicosia Parken</name>
+</wpt>
+<wpt lat="37.778611111" lon="14.593611111">
+  <name>S042</name>
+</wpt>
+<wpt lat="37.928055556" lon="14.363888889">
+  <name>Tour 02 Mistretta Parken</name>
+</wpt>
+<wpt lat="38.013055556" lon="14.328888889">
+  <name>S043</name>
+</wpt>
+<wpt lat="38.077777778" lon="14.645833333">
+  <name>Tour 03 Sant Agata di Militello</name>
+</wpt>
+<wpt lat="38.081944444" lon="14.651388889">
+  <name>S044</name>
+</wpt>
+<wpt lat="38.078055556" lon="14.649166667">
+  <name>S044a</name>
+</wpt>
+<wpt lat="38.028888889" lon="14.692222222">
+  <name>Tour 03 Alcara Li Fusi</name>
+</wpt>
+<wpt lat="38.004444444" lon="14.726666667">
+  <name>Tour 03 Grotta del Lauro</name>
+</wpt>
+<wpt lat="38.116666667" lon="14.700277778">
+  <name>S045</name>
+</wpt>
+<wpt lat="38.163055556" lon="14.750555556">
+  <name>Tour 03 Capo D`Orlando</name>
+</wpt>
+<wpt lat="38.081111111" lon="14.814166667">
+  <name>S046</name>
+</wpt>
+<wpt lat="38.17" lon="14.883055556">
+  <name>S047</name>
+</wpt>
+<wpt lat="38.187222222" lon="14.910277778">
+  <name>S048</name>
+</wpt>
+<wpt lat="38.173888889" lon="14.946388889">
+  <name>S049</name>
+</wpt>
+<wpt lat="38.169444444" lon="14.949166667">
+  <name>S050</name>
+</wpt>
+<wpt lat="38.1575" lon="14.9625">
+  <name>S051</name>
+</wpt>
+<wpt lat="38.156111111" lon="14.964166667">
+  <name>S051a</name>
+</wpt>
+<wpt lat="38.138333333" lon="15.0425">
+  <name>S052</name>
+</wpt>
+<wpt lat="38.125555556" lon="15.062222222">
+  <name>S053</name>
+</wpt>
+<wpt lat="38.132222222" lon="15.054722222">
+  <name>S054</name>
+</wpt>
+<wpt lat="38.128055556" lon="15.059166667">
+  <name>S054a</name>
+</wpt>
+<wpt lat="38.123055556" lon="15.106944444">
+  <name>Tour 03 Terme Vigliatore Strand</name>
+</wpt>
+<wpt lat="38.120833333" lon="15.108055556">
+  <name>S055</name>
+</wpt>
+<wpt lat="38.12" lon="15.108333333">
+  <name>S055a</name>
+</wpt>
+<wpt lat="38.132222222" lon="15.124722222">
+  <name>S056</name>
+</wpt>
+<wpt lat="38.140277778" lon="15.145833333">
+  <name>S057</name>
+</wpt>
+<wpt lat="38.138888889" lon="15.140833333">
+  <name>S057a</name>
+</wpt>
+<wpt lat="38.165277778" lon="15.188888889">
+  <name>S058</name>
+</wpt>
+<wpt lat="38.181666667" lon="15.208055556">
+  <name>S058a</name>
+</wpt>
+<wpt lat="38.190277778" lon="15.224166667">
+  <name>S059</name>
+</wpt>
+<wpt lat="38.213055556" lon="15.241666667">
+  <name>S060</name>
+</wpt>
+<wpt lat="38.231944444" lon="15.238611111">
+  <name>Tour 03 Milazzo Parken</name>
+</wpt>
+<wpt lat="38.265" lon="15.237777778">
+  <name>S061</name>
+</wpt>
+<wpt lat="38.262222222" lon="15.243888889">
+  <name>S062</name>
+</wpt>
+<wpt lat="38.421111111" lon="14.956666667">
+  <name>S063</name>
+</wpt>
+<wpt lat="38.215277778" lon="15.352777778">
+  <name>S064</name>
+</wpt>
+<wpt lat="38.168888889" lon="15.411666667">
+  <name>S065</name>
+</wpt>
+<wpt lat="38.265555556" lon="15.474444444">
+  <name>Tour 03 Rodia Strand</name>
+</wpt>
+<wpt lat="38.289722222" lon="15.515277778">
+  <name>Tour 03 San Saba Strand</name>
+</wpt>
+<wpt lat="38.238333333" lon="15.418333333">
+  <name>S066</name>
+</wpt>
+<wpt lat="38.263333333" lon="15.471388889">
+  <name>S067</name>
+</wpt>
+<wpt lat="38.265277778" lon="15.5075">
+  <name>S068</name>
+</wpt>
+<wpt lat="38.217777778" lon="15.566388889">
+  <name>Tour 03 Messina Parken</name>
+</wpt>
+<wpt lat="38.180555556" lon="15.556388889">
+  <name>Tour 03 Messina Parken 2</name>
+</wpt>
+<wpt lat="38.165277778" lon="15.541388889">
+  <name>S069</name>
+</wpt>
+<wpt lat="37.993888889" lon="15.414722222">
+  <name>S070</name>
+</wpt>
+<wpt lat="37.980555556" lon="15.396388889">
+  <name>S071</name>
+</wpt>
+<wpt lat="37.956666667" lon="15.338055556">
+  <name>Tour 03 Savoca Parken</name>
+</wpt>
+<wpt lat="37.916944444" lon="15.345">
+  <name>Tour 03 Sant Alessio Siculo Parken</name>
+</wpt>
+<wpt lat="37.931388889" lon="15.354444444">
+  <name>S072</name>
+</wpt>
+<wpt lat="37.931388889" lon="15.355555556">
+  <name>S072a</name>
+</wpt>
+<wpt lat="37.853888889" lon="15.275833333">
+  <name>Tour 04 Taormina Parken</name>
+</wpt>
+<wpt lat="37.8975" lon="15.325277778">
+  <name>S073</name>
+</wpt>
+<wpt lat="37.880277778" lon="15.304166667">
+  <name>S073a</name>
+</wpt>
+<wpt lat="37.861388889" lon="15.293888889">
+  <name>S074</name>
+</wpt>
+<wpt lat="37.824444444" lon="15.274166667">
+  <name>Tour 04 Parco Naxos Taormina</name>
+</wpt>
+<wpt lat="37.818888889" lon="15.265277778">
+  <name>Tour 04 Giardini Naxos Parken</name>
+</wpt>
+<wpt lat="37.818611111" lon="15.264444444">
+  <name>S075</name>
+</wpt>
+<wpt lat="37.820833333" lon="15.2675">
+  <name>S076</name>
+</wpt>
+<wpt lat="37.821111111" lon="15.267777778">
+  <name>S077</name>
+</wpt>
+<wpt lat="37.879166667" lon="15.175833333">
+  <name>Tour 04 Gole Alcantara</name>
+</wpt>
+<wpt lat="37.878888889" lon="15.176388889">
+  <name>S078</name>
+</wpt>
+<wpt lat="37.884722222" lon="15.170277778">
+  <name>S078a</name>
+</wpt>
+<wpt lat="37.907777778" lon="15.143888889">
+  <name>S079</name>
+</wpt>
+<wpt lat="37.827222222" lon="15.230833333">
+  <name>Tour 04 Calatabiano</name>
+</wpt>
+<wpt lat="37.801388889" lon="15.248055556">
+  <name>S080</name>
+</wpt>
+<wpt lat="37.804722222" lon="15.244166667">
+  <name>S081</name>
+</wpt>
+<wpt lat="37.789444444" lon="15.23">
+  <name>S082</name>
+</wpt>
+<wpt lat="37.789444444" lon="15.23">
+  <name>Tour 04 Riserva Fiumefreddo</name>
+</wpt>
+<wpt lat="37.749444444" lon="15.207777778">
+  <name>S083</name>
+</wpt>
+<wpt lat="37.720833333" lon="15.214166667">
+  <name>S084</name>
+</wpt>
+<wpt lat="37.638888889" lon="15.176666667">
+  <name>S085</name>
+</wpt>
+<wpt lat="37.6225" lon="15.168055556">
+  <name>Tour 04 Acireale Parken 1</name>
+</wpt>
+<wpt lat="37.614444444" lon="15.168611111">
+  <name>Tour 04 Acireale Parken 2</name>
+</wpt>
+<wpt lat="37.551666667" lon="15.1475">
+  <name>Tour 04 Aci Castello</name>
+</wpt>
+<wpt lat="37.501666667" lon="15.088888889">
+  <name>Catania Parken 1</name>
+</wpt>
+<wpt lat="37.509166667" lon="15.0925">
+  <name>Catania Parken 2</name>
+</wpt>
+<wpt lat="37.514444444" lon="15.092777778">
+  <name>Catania Parken 3</name>
+</wpt>
+<wpt lat="37.532777778" lon="15.120277778">
+  <name>S086</name>
+</wpt>
+<wpt lat="37.445833333" lon="15.085555556">
+  <name>S087</name>
+</wpt>
+<wpt lat="37.487222222" lon="15.085277778">
+  <name>S088</name>
+</wpt>
+<wpt lat="37.491111111" lon="15.061944444">
+  <name>S089</name>
+</wpt>
+<wpt lat="37.5425" lon="14.955833333">
+  <name>Tour 04 Etnapolis</name>
+</wpt>
+<wpt lat="37.5375" lon="14.931388889">
+  <name>Tour 04 Etnaland</name>
+</wpt>
+<wpt lat="37.602222222" lon="14.999722222">
+  <name>S090</name>
+</wpt>
+<wpt lat="37.608611111" lon="14.997777778">
+  <name>S091</name>
+</wpt>
+<wpt lat="37.630277778" lon="15.024166667">
+  <name>Tour 04 Parco dell`Etna Office</name>
+</wpt>
+<wpt lat="37.675555556" lon="14.9825">
+  <name>S092</name>
+</wpt>
+<wpt lat="37.699444444" lon="15.000555556">
+  <name>S093</name>
+</wpt>
+<wpt lat="37.699166667" lon="15.053888889">
+  <name>S093a</name>
+</wpt>
+<wpt lat="37.696111111" lon="15.106388889">
+  <name>Tour 04 Honigmuseum</name>
+</wpt>
+<wpt lat="37.698055556" lon="15.114166667">
+  <name>S094</name>
+</wpt>
+<wpt lat="37.798333333" lon="15.043055556">
+  <name>S095</name>
+</wpt>
+<wpt lat="37.806388889" lon="15.0775">
+  <name>S096</name>
+</wpt>
+<wpt lat="37.810555556" lon="15.085555556">
+  <name>S096a</name>
+</wpt>
+<wpt lat="37.874722222" lon="15.025277778">
+  <name>S097</name>
+</wpt>
+<wpt lat="37.564722222" lon="14.894444444">
+  <name>Tour 04 Paternó</name>
+</wpt>
+<wpt lat="37.478888889" lon="15.012777778">
+  <name>S098</name>
+</wpt>
+<wpt lat="37.310555556" lon="15.103888889">
+  <name>Tour 05 Agnone Bagni</name>
+</wpt>
+<wpt lat="37.314444444" lon="15.091111111">
+  <name>S099</name>
+</wpt>
+<wpt lat="37.330555556" lon="15.086666667">
+  <name>S099a</name>
+</wpt>
+<wpt lat="37.280277778" lon="15.188333333">
+  <name>S100</name>
+</wpt>
+<wpt lat="37.288888889" lon="15.204444444">
+  <name>S101</name>
+</wpt>
+<wpt lat="37.232777778" lon="15.219722222">
+  <name>Tour 05 Augusta Parken</name>
+</wpt>
+<wpt lat="37.201388889" lon="15.163888889">
+  <name>Tour 05 Megara Hyblea</name>
+</wpt>
+<wpt lat="37.205277778" lon="15.178611111">
+  <name>S102</name>
+</wpt>
+<wpt lat="37.066388889" lon="15.291666667">
+  <name>Tour 05 Syrakus Parken</name>
+</wpt>
+<wpt lat="37.064722222" lon="15.284722222">
+  <name>S103</name>
+</wpt>
+<wpt lat="37.076944444" lon="15.2875">
+  <name>S104</name>
+</wpt>
+<wpt lat="37.073333333" lon="15.276388889">
+  <name>S105</name>
+</wpt>
+<wpt lat="37.072222222" lon="15.232777778">
+  <name>S106</name>
+</wpt>
+<wpt lat="37.070833333" lon="15.261944444">
+  <name>S106a</name>
+</wpt>
+<wpt lat="37.091666667" lon="15.218888889">
+  <name>Tour 05 Castello Eurialo</name>
+</wpt>
+<wpt lat="37.042222222" lon="15.234166667">
+  <name>Tour 05 Ciane Quelle</name>
+</wpt>
+<wpt lat="36.9975" lon="15.263611111">
+  <name>S107</name>
+</wpt>
+<wpt lat="37.0375" lon="15.250555556">
+  <name>S108</name>
+</wpt>
+<wpt lat="37.0125" lon="15.288611111">
+  <name>S109</name>
+</wpt>
+<wpt lat="36.961111111" lon="15.204722222">
+  <name>Tour 05 Fontane Bianche</name>
+</wpt>
+<wpt lat="36.959444444" lon="15.201388889">
+  <name>S110</name>
+</wpt>
+<wpt lat="36.9475" lon="15.182222222">
+  <name>Tour 05 Spiaggia del Gelsomineto</name>
+</wpt>
+<wpt lat="36.938333333" lon="15.1775">
+  <name>S111</name>
+</wpt>
+<wpt lat="36.936388889" lon="15.174722222">
+  <name>S111a</name>
+</wpt>
+<wpt lat="37.143333333" lon="15.046111111">
+  <name>Tour 05 Necropoli di Pantalica</name>
+</wpt>
+<wpt lat="37.122222222" lon="14.976388889">
+  <name>S112</name>
+</wpt>
+<wpt lat="37.133055556" lon="15.017222222">
+  <name>Tour 05 Pantalica Parken 1</name>
+</wpt>
+<wpt lat="37.136666667" lon="15.024166667">
+  <name>Tour 05 Pantalica Parken 2</name>
+</wpt>
+<wpt lat="37.139444444" lon="15.0325">
+  <name>Tour 05 Pantalica Parken 3</name>
+</wpt>
+<wpt lat="37.058333333" lon="14.895833333">
+  <name>Tour 05 Akrai</name>
+</wpt>
+<wpt lat="37.0625" lon="14.909166667">
+  <name>S113</name>
+</wpt>
+<wpt lat="37.059444444" lon="14.901944444">
+  <name>S113a</name>
+</wpt>
+<wpt lat="36.9675" lon="15.093611111">
+  <name>Tour 05 Riserva Cavagrande</name>
+</wpt>
+<wpt lat="36.963611111" lon="15.093055556">
+  <name>Tour 05 Cavagrande Stellplatz</name>
+</wpt>
+<wpt lat="36.942222222" lon="15.103888889">
+  <name>S114</name>
+</wpt>
+<wpt lat="36.969722222" lon="15.033333333">
+  <name>Tour 05 Noto Antica Abzweigung</name>
+</wpt>
+<wpt lat="36.946388889" lon="15.023055556">
+  <name>Tour 05 Noto Antica Parken</name>
+</wpt>
+<wpt lat="36.895" lon="15.068333333">
+  <name>S115</name>
+</wpt>
+<wpt lat="36.883611111" lon="15.086111111">
+  <name>S116</name>
+</wpt>
+<wpt lat="36.915833333" lon="15.154166667">
+  <name>S117</name>
+</wpt>
+<wpt lat="36.905" lon="15.148055556">
+  <name>S117a</name>
+</wpt>
+<wpt lat="36.915" lon="15.148055556">
+  <name>S118</name>
+</wpt>
+<wpt lat="36.916388889" lon="15.151111111">
+  <name>S118a</name>
+</wpt>
+<wpt lat="36.870833333" lon="15.128611111">
+  <name>S119</name>
+</wpt>
+<wpt lat="36.861388889" lon="15.119444444">
+  <name>S120</name>
+</wpt>
+<wpt lat="36.859166667" lon="15.116111111">
+  <name>S121</name>
+</wpt>
+<wpt lat="36.833333333" lon="15.079166667">
+  <name>Tour 05 Villa Romana del Tellaro</name>
+</wpt>
+<wpt lat="36.835" lon="15.084722222">
+  <name>Tour 05 Marinelli Bucht</name>
+</wpt>
+<wpt lat="36.816111111" lon="15.098333333">
+  <name>S122</name>
+</wpt>
+<wpt lat="36.791944444" lon="15.075">
+  <name>S123</name>
+</wpt>
+<wpt lat="36.764444444" lon="15.073055556">
+  <name>S124</name>
+</wpt>
+<wpt lat="36.763333333" lon="15.096388889">
+  <name>S125</name>
+</wpt>
+<wpt lat="36.7375" lon="15.1125">
+  <name>S126</name>
+</wpt>
+<wpt lat="36.737222222" lon="15.113055556">
+  <name>S126a</name>
+</wpt>
+<wpt lat="36.747222222" lon="15.099444444">
+  <name>S127</name>
+</wpt>
+<wpt lat="36.7275" lon="15.120833333">
+  <name>S128</name>
+</wpt>
+<wpt lat="36.721388889" lon="15.118611111">
+  <name>Tour 5 Baio Kaibo</name>
+</wpt>
+<wpt lat="36.670277778" lon="15.126388889">
+  <name>S129</name>
+</wpt>
+<wpt lat="36.676944444" lon="15.116111111">
+  <name>S130</name>
+</wpt>
+<wpt lat="36.663888889" lon="15.071111111">
+  <name>Tour 05 Spiaggia Carratois</name>
+</wpt>
+<wpt lat="36.655" lon="15.080555556">
+  <name>S131</name>
+</wpt>
+<wpt lat="36.655" lon="15.078611111">
+  <name>S132</name>
+</wpt>
+<wpt lat="36.659166667" lon="15.077222222">
+  <name>S133</name>
+</wpt>
+<wpt lat="36.700833333" lon="15.028055556">
+  <name>S134</name>
+</wpt>
+<wpt lat="36.726666667" lon="14.906944444">
+  <name>S135</name>
+</wpt>
+<wpt lat="36.6975" lon="14.986111111">
+  <name>S136</name>
+</wpt>
+<wpt lat="36.694166667" lon="14.974444444">
+  <name>S136a</name>
+</wpt>
+<wpt lat="36.73" lon="14.889166667">
+  <name>S137</name>
+</wpt>
+<wpt lat="36.731388889" lon="14.8625">
+  <name>S138</name>
+</wpt>
+<wpt lat="36.715555556" lon="14.8225">
+  <name>S139</name>
+</wpt>
+<wpt lat="36.716944444" lon="14.827222222">
+  <name>Tour 06 Malta Parken</name>
+</wpt>
+<wpt lat="36.718055556" lon="14.815555556">
+  <name>S140</name>
+</wpt>
+<wpt lat="36.706388889" lon="14.784444444">
+  <name>S141</name>
+</wpt>
+<wpt lat="36.705" lon="14.781944444">
+  <name>S142</name>
+</wpt>
+<wpt lat="36.712777778" lon="14.756666667">
+  <name>S143</name>
+</wpt>
+<wpt lat="36.721111111" lon="14.738888889">
+  <name>S144</name>
+</wpt>
+<wpt lat="36.721388889" lon="14.733055556">
+  <name>S145</name>
+</wpt>
+<wpt lat="36.734722222" lon="14.680277778">
+  <name>S146</name>
+</wpt>
+<wpt lat="36.735277778" lon="14.683611111">
+  <name>S147</name>
+</wpt>
+<wpt lat="36.746944444" lon="14.662777778">
+  <name>Tour 06 Lido Spinasanta</name>
+</wpt>
+<wpt lat="36.747777778" lon="14.663055556">
+  <name>S148</name>
+</wpt>
+<wpt lat="36.764722222" lon="14.635555556">
+  <name>S149</name>
+</wpt>
+<wpt lat="36.790833333" lon="14.708333333">
+  <name>Tour 06 Scicli Parken</name>
+</wpt>
+<wpt lat="36.853611111" lon="14.755555556">
+  <name>S150</name>
+</wpt>
+<wpt lat="36.866666667" lon="14.756944444">
+  <name>S150a</name>
+</wpt>
+<wpt lat="36.850277778" lon="14.836944444">
+  <name>Tour 05 Cave D`Ispica</name>
+</wpt>
+<wpt lat="36.925833333" lon="14.7375">
+  <name>Tour 05 Ragusa Parken</name>
+</wpt>
+<wpt lat="36.924166667" lon="14.736388889">
+  <name>S151</name>
+</wpt>
+<wpt lat="36.914166667" lon="14.727222222">
+  <name>S152</name>
+</wpt>
+<wpt lat="36.916111111" lon="14.731111111">
+  <name>Tour 05 Ragusa V/E</name>
+</wpt>
+<wpt lat="36.912777778" lon="14.725">
+  <name>S152a</name>
+</wpt>
+<wpt lat="36.880555556" lon="14.564722222">
+  <name>S153</name>
+</wpt>
+<wpt lat="36.803333333" lon="14.555277778">
+  <name>S154</name>
+</wpt>
+<wpt lat="36.785555556" lon="14.558333333">
+  <name>S155</name>
+</wpt>
+<wpt lat="36.780555556" lon="14.570277778">
+  <name>S156</name>
+</wpt>
+<wpt lat="36.788055556" lon="14.546944444">
+  <name>S157</name>
+</wpt>
+<wpt lat="36.781666667" lon="14.5675">
+  <name>S158</name>
+</wpt>
+<wpt lat="36.790277778" lon="14.494444444">
+  <name>S159</name>
+</wpt>
+<wpt lat="36.793055556" lon="14.493055556">
+  <name>S160</name>
+</wpt>
+<wpt lat="36.793333333" lon="14.49">
+  <name>S161</name>
+</wpt>
+<wpt lat="36.804722222" lon="14.480555556">
+  <name>S162</name>
+</wpt>
+<wpt lat="36.816666667" lon="14.468888889">
+  <name>S163</name>
+</wpt>
+<wpt lat="36.8175" lon="14.466666667">
+  <name>S164</name>
+</wpt>
+<wpt lat="36.841111111" lon="14.460833333">
+  <name>Tour 06 Riserva Cava Randello</name>
+</wpt>
+<wpt lat="36.872222222" lon="14.448055556">
+  <name>Tour 06 Museo Kamarina</name>
+</wpt>
+<wpt lat="36.894722222" lon="14.428055556">
+  <name>S165</name>
+</wpt>
+<wpt lat="36.898333333" lon="14.426388889">
+  <name>S165a</name>
+</wpt>
+<wpt lat="36.894166667" lon="14.438333333">
+  <name>S166</name>
+</wpt>
+<wpt lat="36.916388889" lon="14.418055556">
+  <name>S166a</name>
+</wpt>
+<wpt lat="36.986111111" lon="14.356111111">
+  <name>S167</name>
+</wpt>
+<wpt lat="37.062777778" lon="14.257777778">
+  <name>Tour 07 Gela Parken 1</name>
+</wpt>
+<wpt lat="37.063333333" lon="14.250277778">
+  <name>Tour 07 Gela Parken 2</name>
+</wpt>
+<wpt lat="37.074444444" lon="14.215277778">
+  <name>S168</name>
+</wpt>
+<wpt lat="37.109722222" lon="14.081388889">
+  <name>S169</name>
+</wpt>
+<wpt lat="37.103888889" lon="14.114444444">
+  <name>S169a</name>
+</wpt>
+<wpt lat="37.109444444" lon="14.038611111">
+  <name>S170</name>
+</wpt>
+<wpt lat="37.109166667" lon="14.026666667">
+  <name>S171</name>
+</wpt>
+<wpt lat="37.110555556" lon="14.011111111">
+  <name>S172</name>
+</wpt>
+<wpt lat="37.111666667" lon="13.990277778">
+  <name>S173</name>
+</wpt>
+<wpt lat="37.096666667" lon="13.930833333">
+  <name>S174</name>
+</wpt>
+<wpt lat="37.099722222" lon="13.941944444">
+  <name>S175</name>
+</wpt>
+<wpt lat="37.099722222" lon="13.930555556">
+  <name>S176</name>
+</wpt>
+<wpt lat="37.124444444" lon="14.282777778">
+  <name>Tour 07 Castelluccio di Gela</name>
+</wpt>
+<wpt lat="37.115833333" lon="14.389166667">
+  <name>S177</name>
+</wpt>
+<wpt lat="37.1475" lon="14.405277778">
+  <name>S177a</name>
+</wpt>
+<wpt lat="37.239444444" lon="14.507222222">
+  <name>S178</name>
+</wpt>
+<wpt lat="37.238333333" lon="14.508055556">
+  <name>S178a</name>
+</wpt>
+<wpt lat="37.164166667" lon="14.581388889">
+  <name>S179</name>
+</wpt>
+<wpt lat="37.2325" lon="14.515555556">
+  <name>Tour 07 Museo Regionale della Ceramica</name>
+</wpt>
+<wpt lat="37.2325" lon="14.5375">
+  <name>Tour 07 Cimitero Monumentale Caltagirone</name>
+</wpt>
+<wpt lat="37.290555556" lon="14.387222222">
+  <name>S180</name>
+</wpt>
+<wpt lat="37.3375" lon="14.3875">
+  <name>S181</name>
+</wpt>
+<wpt lat="37.365277778" lon="14.394166667">
+  <name>S181a</name>
+</wpt>
+<wpt lat="37.387222222" lon="14.3675">
+  <name>Tour 07 Piazza Armerina Parken</name>
+</wpt>
+<wpt lat="37.415" lon="14.441944444">
+  <name>Tour 07 Aidone Parken</name>
+</wpt>
+<wpt lat="37.428333333" lon="14.474444444">
+  <name>S182</name>
+</wpt>
+<wpt lat="37.37" lon="14.333611111">
+  <name>Tour 07 Villa Romana Casale</name>
+</wpt>
+<wpt lat="37.371111111" lon="14.333333333">
+  <name>S183</name>
+</wpt>
+<wpt lat="37.373055556" lon="14.199166667">
+  <name>Tour 07 Barrafranca</name>
+</wpt>
+<wpt lat="37.468611111" lon="14.250555556">
+  <name>S184</name>
+</wpt>
+<wpt lat="37.467777778" lon="14.249166667">
+  <name>S184a</name>
+</wpt>
+<wpt lat="37.483611111" lon="14.059444444">
+  <name>Tour 07 Caltanisetta Parken</name>
+</wpt>
+<wpt lat="37.489166667" lon="14.045277778">
+  <name>S185</name>
+</wpt>
+<wpt lat="37.505833333" lon="14.0775">
+  <name>Tour 07:Museo Archeologico Regionale</name>
+</wpt>
+<wpt lat="37.363055556" lon="13.779444444">
+  <name>Tour 07 Cooperativa Agricola</name>
+</wpt>
+<wpt lat="37.299444444" lon="14.035">
+  <name>Tour 07 Miniera Trabia Tallarita</name>
+</wpt>
+<wpt lat="37.105" lon="13.88">
+  <name>Tour 08 Baia di Morella</name>
+</wpt>
+<wpt lat="37.140277778" lon="13.831111111">
+  <name>S186</name>
+</wpt>
+<wpt lat="37.166944444" lon="13.730277778">
+  <name>S187</name>
+</wpt>
+<wpt lat="37.183611111" lon="13.699444444">
+  <name>S188</name>
+</wpt>
+<wpt lat="37.194166667" lon="13.6625">
+  <name>Tour 08 Piunta Bianca</name>
+</wpt>
+<wpt lat="37.197777778" lon="13.663055556">
+  <name>Tour 08 Punta Bianca Parkplatz</name>
+</wpt>
+<wpt lat="37.21" lon="13.664166667">
+  <name>Tour 08 Drasy Bucht</name>
+</wpt>
+<wpt lat="37.244166667" lon="13.613888889">
+  <name>S189</name>
+</wpt>
+<wpt lat="37.248055556" lon="13.608611111">
+  <name>S190</name>
+</wpt>
+<wpt lat="37.269444444" lon="13.583333333">
+  <name>S191</name>
+</wpt>
+<wpt lat="37.288888889" lon="13.581944444">
+  <name>Tour 08 Valle dei Templi</name>
+</wpt>
+<wpt lat="37.296666667" lon="13.590277778">
+  <name>Tour 08 Museo Archeologico Petro Griffo</name>
+</wpt>
+<wpt lat="37.304166667" lon="13.588055556">
+  <name>S192</name>
+</wpt>
+<wpt lat="37.303611111" lon="13.589722222">
+  <name>S193</name>
+</wpt>
+<wpt lat="37.292222222" lon="13.551111111">
+  <name>Tour 08 Casa Pirandello</name>
+</wpt>
+<wpt lat="37.286944444" lon="13.525277778">
+  <name>Tour 08 Porto Empedocle Parken</name>
+</wpt>
+<wpt lat="37.286388889" lon="13.549444444">
+  <name>Tour 08 Porto Empedocle Spiaggia Kaos</name>
+</wpt>
+<wpt lat="35.508888889" lon="12.585277778">
+  <name>S194</name>
+</wpt>
+<wpt lat="37.293055556" lon="13.503055556">
+  <name>S195</name>
+</wpt>
+<wpt lat="37.289166667" lon="13.492777778">
+  <name>S196</name>
+</wpt>
+<wpt lat="37.29" lon="13.488055556">
+  <name>Tour 08 Scala Turchi Villa Romana</name>
+</wpt>
+<wpt lat="37.289166667" lon="13.478611111">
+  <name>S197</name>
+</wpt>
+<wpt lat="37.290833333" lon="13.474444444">
+  <name>S197a</name>
+</wpt>
+<wpt lat="37.295" lon="13.454444444">
+  <name>S198</name>
+</wpt>
+<wpt lat="37.297777778" lon="13.455555556">
+  <name>S198a</name>
+</wpt>
+<wpt lat="37.3375" lon="13.387777778">
+  <name>S199</name>
+</wpt>
+<wpt lat="37.335555556" lon="13.393611111">
+  <name>S200</name>
+</wpt>
+<wpt lat="37.36" lon="13.370833333">
+  <name>Tour 08 Riserva Torre Salsa Parken 1</name>
+</wpt>
+<wpt lat="37.359444444" lon="13.366944444">
+  <name>Tour 08 Riserva Torre Salsa Parken 2</name>
+</wpt>
+<wpt lat="37.381944444" lon="13.309444444">
+  <name>Tour 08 Bovo Marina</name>
+</wpt>
+<wpt lat="37.376388889" lon="13.327777778">
+  <name>S201</name>
+</wpt>
+<wpt lat="37.390555556" lon="13.292777778">
+  <name>S202</name>
+</wpt>
+<wpt lat="37.392777778" lon="13.285277778">
+  <name>S203</name>
+</wpt>
+<wpt lat="37.393888889" lon="13.282777778">
+  <name>S204</name>
+</wpt>
+<wpt lat="37.408611111" lon="13.269444444">
+  <name>Tour 08 Riserva Fiumi Plàtani</name>
+</wpt>
+<wpt lat="37.433888889" lon="13.2375">
+  <name>S205</name>
+</wpt>
+<wpt lat="37.439166667" lon="13.241388889">
+  <name>S206</name>
+</wpt>
+<wpt lat="37.494722222" lon="13.166944444">
+  <name>S207</name>
+</wpt>
+<wpt lat="37.652777778" lon="13.115">
+  <name>S208</name>
+</wpt>
+<wpt lat="37.505277778" lon="13.108055556">
+  <name>Tour 08 Il Castello Incantato</name>
+</wpt>
+<wpt lat="37.505555556" lon="13.076388889">
+  <name>S209</name>
+</wpt>
+<wpt lat="37.505" lon="13.080833333">
+  <name>S209a</name>
+</wpt>
+<wpt lat="37.507777778" lon="13.064444444">
+  <name>Tour 08 Museo del Carnavale</name>
+</wpt>
+<wpt lat="37.519166667" lon="13.115277778">
+  <name>Tour 08 Basilica di San Calogero</name>
+</wpt>
+<wpt lat="37.571666667" lon="12.948333333">
+  <name>Tour 08 Lido Fiori</name>
+</wpt>
+<wpt lat="37.565" lon="12.964166667">
+  <name>S210</name>
+</wpt>
+<wpt lat="37.575277778" lon="12.940555556">
+  <name>S211</name>
+</wpt>
+<wpt lat="37.585" lon="12.836944444">
+  <name>Tour 09 Selinunt</name>
+</wpt>
+<wpt lat="37.583333333" lon="12.838333333">
+  <name>S212</name>
+</wpt>
+<wpt lat="37.595555556" lon="12.841388889">
+  <name>S213</name>
+</wpt>
+<wpt lat="37.605833333" lon="12.838611111">
+  <name>S214</name>
+</wpt>
+<wpt lat="37.5825" lon="12.769722222">
+  <name>S215</name>
+</wpt>
+<wpt lat="37.578333333" lon="12.759722222">
+  <name>S216</name>
+</wpt>
+<wpt lat="37.619166667" lon="12.724166667">
+  <name>S217</name>
+</wpt>
+<wpt lat="37.576388889" lon="12.652222222">
+  <name>S218</name>
+</wpt>
+<wpt lat="37.651388889" lon="12.586944444">
+  <name>S219</name>
+</wpt>
+<wpt lat="37.666388889" lon="12.578611111">
+  <name>S220</name>
+</wpt>
+<wpt lat="37.678611111" lon="12.599444444">
+  <name>S220a</name>
+</wpt>
+<wpt lat="37.683888889" lon="12.493888889">
+  <name>S221</name>
+</wpt>
+<wpt lat="37.701111111" lon="12.477222222">
+  <name>S221a</name>
+</wpt>
+<wpt lat="37.6925" lon="12.484166667">
+  <name>S221b</name>
+</wpt>
+<wpt lat="37.714166667" lon="12.471666667">
+  <name>S222</name>
+</wpt>
+<wpt lat="37.747777778" lon="12.496111111">
+  <name>S223</name>
+</wpt>
+<wpt lat="37.795277778" lon="12.431944444">
+  <name>Tour 09 Messina Parken 1</name>
+</wpt>
+<wpt lat="37.800833333" lon="12.4275">
+  <name>Tour 09 Messina Parken 2</name>
+</wpt>
+<wpt lat="37.800833333" lon="12.4275">
+  <name>Tour 09 Messina Parken 3</name>
+</wpt>
+<wpt lat="37.800833333" lon="12.4275">
+  <name>Tour 09 Archäologisches Museum</name>
+</wpt>
+<wpt lat="37.806666667" lon="12.439444444">
+  <name>Tour 09 Weinkellerei Pellegrino</name>
+</wpt>
+<wpt lat="37.792222222" lon="12.435">
+  <name>Tour 09 Fährterminal</name>
+</wpt>
+<wpt lat="37.856666667" lon="12.477777778">
+  <name>S225</name>
+</wpt>
+<wpt lat="37.844166667" lon="12.464722222">
+  <name>S224</name>
+</wpt>
+<wpt lat="37.862222222" lon="12.485">
+  <name>S226</name>
+</wpt>
+<wpt lat="37.863333333" lon="12.485">
+  <name>S226a</name>
+</wpt>
+<wpt lat="37.883055556" lon="12.478055556">
+  <name>S227</name>
+</wpt>
+<wpt lat="37.910277778" lon="12.461666667">
+  <name>S228</name>
+</wpt>
+<wpt lat="37.908611111" lon="12.459722222">
+  <name>S228a</name>
+</wpt>
+<wpt lat="37.930833333" lon="12.479722222">
+  <name>S229</name>
+</wpt>
+<wpt lat="37.946388889" lon="12.493611111">
+  <name>S230</name>
+</wpt>
+<wpt lat="37.981388889" lon="12.498611111">
+  <name>S231</name>
+</wpt>
+<wpt lat="37.9825" lon="12.514444444">
+  <name>Tour 09 Salina Calcara</name>
+</wpt>
+<wpt lat="37.982777778" lon="12.531111111">
+  <name>S232</name>
+</wpt>
+<wpt lat="38.010833333" lon="12.531111111">
+  <name>S233</name>
+</wpt>
+<wpt lat="38.013611111" lon="12.526388889">
+  <name>S233a</name>
+</wpt>
+<wpt lat="38.016666667" lon="12.498611111">
+  <name>Tour 09 Trapani Parken 1</name>
+</wpt>
+<wpt lat="38.015" lon="12.495833333">
+  <name>Tour 09 Trapani Parken 2</name>
+</wpt>
+<wpt lat="38.015" lon="12.523611111">
+  <name>Tour 09 Trapani Parken 3</name>
+</wpt>
+<wpt lat="38.018611111" lon="12.543055556">
+  <name>Tour 09 Museo Pepoli</name>
+</wpt>
+<wpt lat="38.014166667" lon="12.507222222">
+  <name>Tour 09 Fährhafen Trapani 1</name>
+</wpt>
+<wpt lat="38.009444444" lon="12.5125">
+  <name>Tour 09 Fährhafen Trapani 2</name>
+</wpt>
+<wpt lat="37.924722222" lon="12.341944444">
+  <name>S234</name>
+</wpt>
+<wpt lat="36.816388889" lon="11.979444444">
+  <name>S235</name>
+</wpt>
+<wpt lat="38.040555556" lon="12.584722222">
+  <name>S236</name>
+</wpt>
+<wpt lat="38.069166667" lon="12.572222222">
+  <name>S237</name>
+</wpt>
+<wpt lat="38.070277778" lon="12.631111111">
+  <name>S238</name>
+</wpt>
+<wpt lat="38.070277778" lon="12.6275">
+  <name>S238a</name>
+</wpt>
+<wpt lat="38.075555556" lon="12.640277778">
+  <name>S238b</name>
+</wpt>
+<wpt lat="38.094722222" lon="12.663888889">
+  <name>S239</name>
+</wpt>
+<wpt lat="38.075555556" lon="12.735555556">
+  <name>S240</name>
+</wpt>
+<wpt lat="38.111111111" lon="12.723888889">
+  <name>S241</name>
+</wpt>
+<wpt lat="38.116388889" lon="12.720555556">
+  <name>S241a</name>
+</wpt>
+<wpt lat="38.121111111" lon="12.733055556">
+  <name>S241b</name>
+</wpt>
+<wpt lat="38.123888889" lon="12.729166667">
+  <name>S241c</name>
+</wpt>
+<wpt lat="38.150833333" lon="12.731944444">
+  <name>S242</name>
+</wpt>
+<wpt lat="38.168888889" lon="12.743611111">
+  <name>S243</name>
+</wpt>
+<wpt lat="38.174722222" lon="12.741111111">
+  <name>S243a</name>
+</wpt>
+<wpt lat="38.162222222" lon="12.736666667">
+  <name>S244</name>
+</wpt>
+<wpt lat="38.175" lon="12.732222222">
+  <name>S245</name>
+</wpt>
+<wpt lat="38.174166667" lon="12.748055556">
+  <name>S246</name>
+</wpt>
+<wpt lat="38.126388889" lon="12.788611111">
+  <name>S247</name>
+</wpt>
+<wpt lat="38.069444444" lon="12.821111111">
+  <name>Tour 09 Scopello Parken 1</name>
+</wpt>
+<wpt lat="38.08" lon="12.807222222">
+  <name>Tour 09 Scopello Parken 2</name>
+</wpt>
+<wpt lat="38.081944444" lon="12.808333333">
+  <name>Tour 09 Scopello Parken 3</name>
+</wpt>
+<wpt lat="38.069444444" lon="12.818055556">
+  <name>Tour 09 Scopello Parken 4</name>
+</wpt>
+<wpt lat="38.067777778" lon="12.818055556">
+  <name>S248</name>
+</wpt>
+<wpt lat="38.069444444" lon="12.818055556">
+  <name>S248a</name>
+</wpt>
+<wpt lat="38.055" lon="12.843055556">
+  <name>S249</name>
+</wpt>
+<wpt lat="38.055833333" lon="12.840833333">
+  <name>S249a</name>
+</wpt>
+<wpt lat="38.024166667" lon="12.887777778">
+  <name>Tour 09 Castellamare Parken</name>
+</wpt>
+<wpt lat="38.025" lon="12.890833333">
+  <name>S250</name>
+</wpt>
+<wpt lat="38.023333333" lon="12.893611111">
+  <name>S250a</name>
+</wpt>
+<wpt lat="38.023888889" lon="12.903888889">
+  <name>S251</name>
+</wpt>
+<wpt lat="38.025" lon="12.913611111">
+  <name>S252</name>
+</wpt>
+<wpt lat="37.948333333" lon="12.829166667">
+  <name>S253</name>
+</wpt>
+<wpt lat="37.916944444" lon="12.867222222">
+  <name>S254</name>
+</wpt>
+<wpt lat="37.9725" lon="12.892222222">
+  <name>Tour 09 Terme Segestane</name>
+</wpt>
+<wpt lat="37.978611111" lon="12.911388889">
+  <name>Tour 09 Terme Gorga</name>
+</wpt>
+<wpt lat="38.031944444" lon="12.951388889">
+  <name>S255</name>
+</wpt>
+<wpt lat="38.045833333" lon="12.994444444">
+  <name>S256</name>
+</wpt>
+<wpt lat="38.183611111" lon="13.137777778">
+  <name>S257</name>
+</wpt>
+<wpt lat="38.170833333" lon="13.163333333">
+  <name>S258</name>
+</wpt>
+<wpt lat="38.168055556" lon="13.1775">
+  <name>Tour 09 Bioparco Carini</name>
+</wpt>
+<wpt lat="38.158888889" lon="13.168611111">
+  <name>Tour 09 Catacombe Villagrazia</name>
+</wpt>
+<wpt lat="38.196944444" lon="13.243888889">
+  <name>S259</name>
+</wpt>
+<wpt lat="38.180833333" lon="13.241111111">
+  <name>S259a</name>
+</wpt>
+<wpt lat="38.205277778" lon="13.281944444">
+  <name>S260</name>
+</wpt>
+<wpt lat="38.198055556" lon="13.280555556">
+  <name>S260a</name>
+</wpt>
+<wpt lat="38.200833333" lon="13.323055556">
+  <name>Tour 09 Mondello Parken</name>
+</wpt>
+<wpt lat="38.200277778" lon="13.324444444">
+  <name>S261</name>
+</wpt>
+<wpt lat="38.191111111" lon="13.344166667">
+  <name>S262</name>
+</wpt>
+<wpt lat="38.150277778" lon="13.364166667">
+  <name>Tour 09 Santuario Rosalia</name>
+</wpt>
+</gpx>

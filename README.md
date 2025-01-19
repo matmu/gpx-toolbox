@@ -1,1 +1,2 @@
-# gpx2googlelink
+# GPX-Toolbox
+Scripts to manipulate GPX files.
